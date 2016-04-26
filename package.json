@@ -1,5 +1,5 @@
 {
-  "name": "material-components",
+  "name": "@dropofwill/material-components",
   "version": "0.3.0",
   "description": "Stateless UI components for react that follow material design",
   "main": "lib/index.js",
