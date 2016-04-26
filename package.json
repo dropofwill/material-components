@@ -1,6 +1,6 @@
 {
   "name": "material-components",
-  "version": "0.2.5",
+  "version": "0.3.0",
   "description": "Stateless UI components for react that follow material design",
   "main": "lib/index.js",
   "scripts": {
@@ -59,20 +59,14 @@
     "cerebral-react": "^0.6.0",
     "cerebral-router": "^0.7.1",
     "chai": "^3.4.1",
-    "classnames": "^2.2.0",
     "css-loader": "^0.23.0",
     "eslint": "^1.10.1",
     "eslint-plugin-react": "^3.10.0",
     "mocha": "^2.3.4",
-    "moment": "^2.10.6",
     "node-sass": "^3.4.2",
     "normalize.css": "^3.0.3",
     "parallelshell": "^2.0.0",
     "path-to-regexp": "^1.2.1",
-    "react": "^0.14.3",
-    "react-addons-css-transition-group": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "react-tap-event-plugin": "^0.2.1",
     "rimraf": "^2.4.4",
     "style-loader": "^0.13.0",
     "watch": "^0.16.0",
@@ -80,11 +74,11 @@
     "webpack-dev-server": "^1.12.1"
   },
   "peerDependencies": {
-    "classnames": "^2.2.0",
-    "moment": "^2.10.6",
-    "react": "^0.14.0",
-    "react-addons-css-transition-group": "^0.14.0",
-    "react-dom": "^0.14.0",
-    "react-tap-event-plugin": "^0.2.1"
+    "classnames": "^2.2.4",
+    "moment": "^2.13.0",
+    "react": "^15.0.1",
+    "react-addons-css-transition-group": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "react-tap-event-plugin": "^1.0.0"
   }
 }
